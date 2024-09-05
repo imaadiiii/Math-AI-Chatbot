@@ -93,7 +93,3 @@ My plan to enhance the Math-AI-Chatbot with the following features:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Copy this into your `README.md` file, and your repository should be well-documented! Let me know if you need further adjustments.
