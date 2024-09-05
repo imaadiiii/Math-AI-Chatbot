@@ -2,4 +2,4 @@ streamlit
 langchain
 langchain-groq
 langchain-community
-wikipedia-api
+wikipedia-api==0.5.4
